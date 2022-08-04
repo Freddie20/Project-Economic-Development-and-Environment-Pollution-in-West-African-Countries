@@ -1,5 +1,3 @@
-# alx_t_project_1
-
 Project: Economic Development and Environment Pollution in West African Countries
 
 ### Dataset Description 
